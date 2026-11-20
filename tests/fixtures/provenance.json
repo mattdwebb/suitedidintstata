@@ -1,0 +1,17 @@
+{
+  "oracle": "didintpy",
+  "head": "b09063181ae0caecf33feb66cd8275440b11a4c2",
+  "source_hashes": {
+    "src\\didintpy\\__init__.py": "085cd58aa15242c69c991b76951874d992a3ae2c980b0aedc017a0f18718aadd",
+    "src\\didintpy\\_inference.py": "541fe8682d74227c78b85bef54e94f7362d7b2e359fd59e0238b88a762851ff6",
+    "src\\didintpy\\_probability.py": "70c20b6b0630bdf475e16579f551bdcb7eb94d2a4d4bf803d0b4ccc66d448e7f",
+    "src\\didintpy\\api.py": "9aa5ca5463cbc4f98a6e0f76d1fd6889157e772ccc25377eeaedba3a1c391a21",
+    "src\\didintpy\\canonical_aggregation.py": "25a520f1b6d9ce5c9396fde42c742d1b37a221dbc22cf08af45de1cb6ca03318",
+    "src\\didintpy\\didint.py": "c3f8e4cf9a08df0830baa6479bca4a7a590b83916d982e7c7a5c0acdd5a54613",
+    "src\\didintpy\\exact_ri.py": "1e96ad730ef261dafc111d8345476e0d72f099fc403a4af9e7ea5004289e2224",
+    "src\\didintpy\\fitted_didint.py": "e667f8e5c22a0946225bcf6d877bd5a414c950b670f139362e445a8420636cae",
+    "src\\didintpy\\undid.py": "7ef47387bf537672e007a5b48b51a4a2423a0ab3eda535d2a7d5e5567b7cbff0"
+  },
+  "license": "Historical Python numerical comparator; no source copied. Current comparator repository includes MIT license.",
+  "scope": "Fresh small deterministic black-box comparisons, not full certification."
+}

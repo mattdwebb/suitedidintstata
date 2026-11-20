@@ -1,0 +1,5 @@
+*.log
+*.smcl
+.test-install/
+
+examples/school_results.csv

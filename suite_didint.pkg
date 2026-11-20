@@ -1,0 +1,8 @@
+v 3
+d Native DIDINT suite adapter
+d Version 0.1.0; complete cells, never controls, strict full-rank designs
+d Author: Matthew D. Webb
+d License: MIT for new suite code; original DID-INT notices preserved
+f suite_didint.ado
+f suite_didint.sthlp
+f LICENSE
